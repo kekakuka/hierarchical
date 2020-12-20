@@ -22,7 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest -o --watch --coverage=false",
+    "test": "jest --all",
     "eject": "react-scripts eject",
     "test:watch": "jest -o --watch --coverage=false"
   },

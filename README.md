@@ -19,15 +19,15 @@ most general concept to the most specific.
 
 1. `npm run test`
 
-# Data structure:
+## Data structure:
 
 - Using Graph to manage the data structure.
 
-# Algorithm:
+## Algorithm:
 
 - Using Closure and Hash Table to reduce the time complexity.
 - Using Recursion to traverse the graph and create Hierarchical Concept.
 
-# API`
+## API`
 
 - Using Recursion and Promise allSettled to manage api call and promise reject.
